@@ -1,0 +1,11 @@
+# Common dependencies for Python projects
+# Individual projects may have their own requirements.txt files
+
+# For testing
+pytest>=7.0.0
+
+# For code formatting
+black>=22.0.0
+
+# For linting
+pylint>=2.15.0
